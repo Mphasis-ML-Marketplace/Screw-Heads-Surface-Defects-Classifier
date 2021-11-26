@@ -10,4 +10,4 @@ Surface defects in screw fastener heads pose quality and performance risks. Clas
 * Mphasis DeepInsights is a cloud-based cognitive computing platform that offers data extraction & predictive analytics capabilities. Need Customized Deep learning and Machine Learning Solutions? Get in Touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](Insert Link)
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-jfbd2jip6omj4?sr=0-1&ref_=beagle&applicationId=AWSMPContessa)
